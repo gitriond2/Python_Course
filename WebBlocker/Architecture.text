@@ -1,0 +1,5 @@
+Program Achitecture
+
+
+Mac and Linux: /etc/hosts
+Windows:    C:\Windows\System32\drivers\etc                in there is the local host for default
