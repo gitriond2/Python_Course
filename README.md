@@ -1,11 +1,5 @@
 # Proyectos Personales
 
-## Sitio Web de Gestión de Productos (ASP.NET, SQL Server)
-- **Descripción:** Desarrollo de un sistema web para administración de inventarios y seguimiento de órdenes, utilizando ASP.NET para el backend y SQL Server para la gestión de datos.
-
-## Aplicación de Gestión de Tareas (WPF, MVC)
-- **Descripción:** Creación de una aplicación de escritorio con funcionalidades CRUD completas, aplicando el patrón MVC para la gestión de tareas.
-
 ## Inventario de Libros - GUI en Python (Tkinter, SQLite3, PostgreSQL)
 - **Descripción:** Desarrollo de una aplicación para gestionar un inventario de libros, con búsqueda avanzada y gestión de registros utilizando Tkinter para la GUI y SQLite3 y PostgreSQL para la base de datos.
 
